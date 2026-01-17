@@ -6,11 +6,15 @@ Identify meaningful patterns, trends, anomalies, or predictive indicators and tr
 # Submission and Expectation
 Participants must submit one consolidated PDF containing the following sections:
 
-## 1. Problem Statement and Approach: A concise description of the problem being addressed and the proposed analytical or technical approach.
-## 2. Datasets Used: A clear description of the dataset(s) and columns used for the analysis. Participants must use the Aadhaar enrolment and/or update dataset provided by UIDAI.
-## 3. Methodology: A detailed explanation of the methodology adopted, including data cleaning, preprocessing, and any transformations applied before analysis.
-## 4. Data Analysis and Visualisation: A description of key findings and insights, and the visualisations or infographics developed. Participants must also include code files or notebooks used for the analysis (in the PDF itself).
-Note: Shortlisted teams may be asked to submit the code file/notebook separately on GitHub.
+## 1. Problem Statement and Approach: 
+A concise description of the problem being addressed and the proposed analytical or technical approach.
+## 2. Datasets Used: 
+A clear description of the dataset(s) and columns used for the analysis. Participants must use the Aadhaar enrolment and/or update dataset provided by UIDAI.
+## 3. Methodology: 
+A detailed explanation of the methodology adopted, including data cleaning, preprocessing, and any transformations applied before analysis.
+## 4. Data Analysis and Visualisation: 
+A description of key findings and insights, and the visualisations or infographics developed. Participants must also include code files or notebooks used for the analysis (in the PDF itself).
+- Note: Shortlisted teams may be asked to submit the code file/notebook separately on GitHub.
 
 # Jury and Evaluation
 All applications will be rated on the parameters listed below:
